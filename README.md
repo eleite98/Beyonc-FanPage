@@ -1,1 +1,1 @@
-# Beyonc-FanPage
+# BeyoncéFanPage
