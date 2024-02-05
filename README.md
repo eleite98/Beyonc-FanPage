@@ -45,7 +45,7 @@ specific countries.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/ritazevedo/BeyonceFanPage.git
+   git clone https://github.com/eleite98/BeyonceFanPage.git
    cd BeyonceFanPage
    ```
 2. **Create the Database:**
